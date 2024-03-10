@@ -1,7 +1,7 @@
 
 # Angular Complete Guide 2024 - Udemy Course
 
-This course was offered by GM MOTORS to us understand and grab the Angular framework concepts and make us more proficient as Full-Stack developers.
+Understand and grab the Angular framework concepts and make us more proficient as Full-Stack developers.
 
 
 ## Referência
