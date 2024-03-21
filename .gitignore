@@ -58,6 +58,14 @@ baseline.json
 .husky/_
 aio/content/examples/.DS_Store
 
+# Ignore files ending with .log
+*.log
+
+# Ignore directory named "temp"
+/temp/
+
+# Ignore all files in the "build" directory
+build/
 
 # Ignore cache created with the Angular CLI.
 .angular/
